@@ -8,14 +8,16 @@
 Neumann, Markus. Java: Kompendium: Professionell Java programmieren lernen (German Edition) (S.60-61). Kindle-Version.
 */
 
-public class uebung2a {
-    public static void main(String[] args) {
+public class uebung2a
+{
+    public static void main(String[] args)
+    {
         byte x = 1;
         int y = 2;
         long z = 3;
 
         System.out.println("Werte: x: " + x + " y: " + y + " z: " + z);
-
+        
         y = x;
         z = x;
 

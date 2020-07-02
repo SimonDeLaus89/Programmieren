@@ -3,12 +3,14 @@
     Das Ergebnis soll in einer weiteren Variablen als Fließkommazahl gespeichert und anschließend auf dem Bildschirm ausgegeben werden.
     Wiederholen Sie diesen Vorgang, speichern Sie dabei dieses Mal jedoch nur den ganzzahligen Teil in der Variablen ab.
 
-Bonacina, Michael. Java Programmieren: für Einsteiger: Der leichte Weg zum Java-Experten (2. Auflage: komplett neu verfasst) (Einfach Programmieren lernen 1) (German Edition) (S.58). Kindle-Version. 
+Bonacina, Michael. Java Programmieren: für Einsteiger: Der leichte Weg zum Java-Experten (2. Auflage: komplett neu verfasst) (Einfach Programmieren lernen 1) (German Edition) (S.58). Kindle-Version.
 
 */
 
-public class uebung2a {
-    public static void main(final String[] args) {
+public class uebung2a
+{
+    public static void main(final String[] args)
+    {
         int x = 3;
         double y = 3.5;
 

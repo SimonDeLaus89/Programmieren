@@ -7,12 +7,12 @@
 Bonacina, Michael. Java Programmieren: für Einsteiger: Der leichte Weg zum Java-Experten (2. Auflage: komplett neu verfasst) (Einfach Programmieren lernen 1) (German Edition) (S.58-60). Kindle-Version.
 */
 
-public class uebung2b {
-    public static void main(final String[] args) {
+public class uebung2b
+{
+    public static void main(final String[] args)
+    {
         String x[] = {"Herzlich", "Willkommen", "zum", "Java-Kurs!"};
 
-        for (int i = 0; i < x.length; i++) {
-            System.out.print(x[i] + " ");
-        }
+        System.out.print(x[0] + " " + x[1] + " " + x[2] + " " + x[3]);
     }
 }

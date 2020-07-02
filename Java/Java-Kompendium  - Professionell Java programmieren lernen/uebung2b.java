@@ -7,8 +7,10 @@ Neumann, Markus. Java: Kompendium: Professionell Java programmieren lernen (Germ
 
 import java.io.*;
 
-public class uebung2b {
-    public static void main(String[] args) throws IOException {
+public class uebung2b
+{
+    public static void main(String[] args) throws IOException
+    {
         InputStreamReader isr = new InputStreamReader(System.in);
         BufferedReader br = new BufferedReader(isr);
 

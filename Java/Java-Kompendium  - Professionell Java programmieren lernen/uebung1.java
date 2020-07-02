@@ -7,8 +7,10 @@
 
 
 
-public class uebung1 {
-    public static void main(String[] args) {
+public class uebung1
+{
+    public static void main(String[] args)
+    {
         System.out.println("Willkommen zu unserem Java-Kurs");
     }
 }
