@@ -11,7 +11,7 @@ public class uebung2b
 {
     public static void main(final String[] args)
     {
-        String x[] = {"Herzlich", "Willkommen", "zum", "Java-Kurs!"};
+        String[] x = {"Herzlich", "Willkommen", "zum", "Java-Kurs!"};
 
         System.out.print(x[0] + " " + x[1] + " " + x[2] + " " + x[3]);
     }

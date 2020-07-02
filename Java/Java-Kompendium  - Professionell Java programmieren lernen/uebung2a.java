@@ -17,7 +17,7 @@ public class uebung2a
         long z = 3;
 
         System.out.println("Werte: x: " + x + " y: " + y + " z: " + z);
-        
+
         y = x;
         z = x;
 
