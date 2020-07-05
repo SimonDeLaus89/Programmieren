@@ -9,9 +9,8 @@ Neumann, Markus. C Programmieren: für Einsteiger: Der leichte Weg zum C-Experte
 
 #include <stdio.h>
 
-int main()
+void main()
 {
     printf("Zeile 1\n");
     printf("Zeile 2\n");
-    return 0;
 }

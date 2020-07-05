@@ -8,8 +8,7 @@ Neumann, Markus. C Programmieren: für Einsteiger: Der leichte Weg zum C-Experte
 
 #include <stdio.h>
 
-int main()
+void main()
 {
-    printf("Hallo Welt!");
-    return 0;
+    printf("Hallo Welt!\n");
 }
