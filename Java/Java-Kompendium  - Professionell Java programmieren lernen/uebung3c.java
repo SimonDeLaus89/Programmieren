@@ -8,7 +8,7 @@
     Wählen Sie eine Datenstruktur aus, die zu diesen Aufgaben passt.
     Anmerkung: Um diese Aufgabe sinnvoll zu erledigen, muss mindestens einer der Teilnehmer beide Kurse besuchen.
 
-Neumann, Markus. Java: Kompendium: Professionell Java programmieren lernen (German Edition) (S.81-82). Kindle-Version. 
+Neumann, Markus. Java: Kompendium: Professionell Java programmieren lernen (German Edition) (S.81-82). Kindle-Version.
 */
 
 public class uebung3c {
