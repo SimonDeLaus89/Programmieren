@@ -1,0 +1,6 @@
+D:\odrive\OneDrive\Programmieren\Programmieren\C#\C# - Programmieren für Einsteiger\uebung3c\bin\Release\uebung3c.exe.config
+D:\odrive\OneDrive\Programmieren\Programmieren\C#\C# - Programmieren für Einsteiger\uebung3c\bin\Release\uebung3c.exe
+D:\odrive\OneDrive\Programmieren\Programmieren\C#\C# - Programmieren für Einsteiger\uebung3c\bin\Release\uebung3c.pdb
+D:\odrive\OneDrive\Programmieren\Programmieren\C#\C# - Programmieren für Einsteiger\uebung3c\obj\Release\uebung3c.csproj.CoreCompileInputs.cache
+D:\odrive\OneDrive\Programmieren\Programmieren\C#\C# - Programmieren für Einsteiger\uebung3c\obj\Release\uebung3c.exe
+D:\odrive\OneDrive\Programmieren\Programmieren\C#\C# - Programmieren für Einsteiger\uebung3c\obj\Release\uebung3c.pdb
