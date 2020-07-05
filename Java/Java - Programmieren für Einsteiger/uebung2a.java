@@ -15,9 +15,9 @@ public class uebung2a
         double y = 3.5;
 
         double z1 = x + y;
-        System.out.println("Ergebnis: " + z1);
+        System.out.printf("Ergebnis: %.1f\n", z1);
 
         int z2 = (int) (x + y);
-        System.out.println("Ergebnis: " + z2);
+        System.out.printf("Ergebnis: %d", z2);
     }
 }

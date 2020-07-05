@@ -31,6 +31,6 @@ public class uebung3b {
         System.out.print("Geben Sie den fünften Namen ein: ");
         namen.add(br.readLine());
 
-        System.out.println("Namen: " + namen);
+        System.out.printf("Namen: %s", namen);
     }
 }

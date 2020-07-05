@@ -14,13 +14,13 @@ public class uebung3a
 {
     public static void main(String[] args) throws Exception
     {
-        int bestellmenge = 22;
+        int bestellmenge = 19;
         int bestand = 20;
         boolean zahlung = false;
 
         if (bestellmenge > bestand)
         {
-            System.out.println("Nicht genügend Einheiten auf Lager. Es sind nur noch " + bestand + " Einheiten verfügbar");
+            System.out.printf("Nicht genügend Einheiten auf Lager. Es sind nur noch %d Einheiten verfügbar\n", bestand);
         }
         else if(zahlung)
         {
@@ -28,7 +28,7 @@ public class uebung3a
         }
         else
         {
-            System.out.println("Auf Zahlen wird gewartet.");
+            System.out.println("Auf Zahlung wird gewartet.");
         }
 
 

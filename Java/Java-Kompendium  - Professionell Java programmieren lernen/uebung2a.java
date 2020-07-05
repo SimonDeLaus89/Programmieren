@@ -16,11 +16,11 @@ public class uebung2a
         int y = 2;
         long z = 3;
 
-        System.out.println("Werte: x: " + x + " y: " + y + " z: " + z);
+        System.out.printf("Werte: x: %d, y: %d, z: \n", x, y, z);
 
         y = x;
         z = x;
 
-        System.out.println("Werte: x: " + x + " y: " + y + " z: " + z);
+        System.out.printf("Werte: x: %d, y: %d, z: \n", x, y, z);
     }
 }

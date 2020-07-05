@@ -18,6 +18,6 @@ public class uebung2b
         String x = br.readLine();
 
         int zahl = Integer.parseInt(x);
-        System.out.println("Zahl * 2: " + zahl * 2);
+        System.out.printf("Zahl * 2: %d\n", zahl * 2);
     }
 }

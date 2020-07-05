@@ -11,9 +11,36 @@
 Neumann, Markus. Java: Kompendium: Professionell Java programmieren lernen (German Edition) (S.81-82). Kindle-Version.
 */
 
+import java.util.*;
+
 public class uebung3c {
     public static void main(String[] args)
     {
-        //TODO: Zusammengesetzte Datentypen in Java
+        HashSet<String> kursJava = new HashSet<>();
+        HashSet<String> kursPython = new HashSet<>();
+        HashSet<String> alleTeilnehmer = new HashSet<>();
+        HashSet<String> teilnehmerBeideKurse = new HashSet<>();
+
+        kursJava.add("Klaus");
+        kursJava.add("Peter");
+        kursJava.add("Sieglinde");
+        kursJava.add("Simon");
+        kursPython.add("Simon");
+        kursPython.add("Paul");
+        kursPython.add("Thomas");
+        kursPython.add("Klaus");
+
+        System.out.printf("Java: %s\n", kursJava);
+        System.out.printf("Python: %s\n", kursPython);
+
+        alleTeilnehmer.addAll(kursJava);
+        alleTeilnehmer.addAll(kursPython);
+
+        System.out.printf("Alle Teilnehmer %s\n", alleTeilnehmer);
+
+        teilnehmerBeideKurse.addAll(kursJava);
+        teilnehmerBeideKurse.retainAll(kursPython);
+
+        System.out.printf("Beide Kurse: %s\n", teilnehmerBeideKurse);
     }
 }
