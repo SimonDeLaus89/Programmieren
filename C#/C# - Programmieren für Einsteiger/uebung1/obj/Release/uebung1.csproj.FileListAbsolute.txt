@@ -1,0 +1,7 @@
+D:\odrive\OneDrive\Programmieren\Programmieren\C#\C# - Programmieren für Einsteiger\uebung1\bin\Release\uebung1.exe.config
+D:\odrive\OneDrive\Programmieren\Programmieren\C#\C# - Programmieren für Einsteiger\uebung1\bin\Release\uebung1.exe
+D:\odrive\OneDrive\Programmieren\Programmieren\C#\C# - Programmieren für Einsteiger\uebung1\bin\Release\uebung1.pdb
+D:\odrive\OneDrive\Programmieren\Programmieren\C#\C# - Programmieren für Einsteiger\uebung1\obj\Release\uebung1.csprojAssemblyReference.cache
+D:\odrive\OneDrive\Programmieren\Programmieren\C#\C# - Programmieren für Einsteiger\uebung1\obj\Release\uebung1.csproj.CoreCompileInputs.cache
+D:\odrive\OneDrive\Programmieren\Programmieren\C#\C# - Programmieren für Einsteiger\uebung1\obj\Release\uebung1.exe
+D:\odrive\OneDrive\Programmieren\Programmieren\C#\C# - Programmieren für Einsteiger\uebung1\obj\Release\uebung1.pdb
