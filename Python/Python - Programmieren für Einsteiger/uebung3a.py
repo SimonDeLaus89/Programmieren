@@ -22,21 +22,21 @@ def main():
     buch2Tuple = ("Game of Thrones", "George R. R. Martin", 120708, 25.99)
     buch3Tuple = ("Der Herr der Ringe", "J. R. R. Tolkien", 298765, 24.99)
 
-    print("List: \n--------------------------------")
+    print("List:")
     print("Titel: {}\nAutor: {}\nArtikelnummer: {}\nPreis: {}\n".format(buch1List[0], buch1List[1], buch1List[2], buch1List[3]))
     print("Titel: {}\nAutor: {}\nArtikelnummer: {}\nPreis: {}\n".format(buch2List[0], buch2List[1], buch2List[2], buch2List[3]))
     print("Titel: {}\nAutor: {}\nArtikelnummer: {}\nPreis: {}\n".format(buch3List[0], buch3List[1], buch3List[2], buch3List[3]))
 
-    print("Dict: \n--------------------------------")
+    print("Dict:")
     print("Titel: {}\nAutor: {}\nArtikelnummer: {}\nPreis: {}\n".format(buch1Dict["Titel"], buch1Dict["Autor"], buch1Dict["Artikelnummer"], buch1Dict["Preis"]))
     print("Titel: {}\nAutor: {}\nArtikelnummer: {}\nPreis: {}\n".format(buch2Dict["Titel"], buch2Dict["Autor"], buch2Dict["Artikelnummer"], buch2Dict["Preis"]))
     print("Titel: {}\nAutor: {}\nArtikelnummer: {}\nPreis: {}\n".format(buch3Dict["Titel"], buch3Dict["Autor"], buch3Dict["Artikelnummer"], buch3Dict["Preis"]))
 
 
-    print("Tuple: \n--------------------------------")
+    print("Tuple:")
     print("Titel: {}\nAutor: {}\nArtikelnummer: {}\nPreis: {}\n".format(buch1Tuple[0], buch1Tuple[1], buch1Tuple[2], buch1Tuple[3]))
     print("Titel: {}\nAutor: {}\nArtikelnummer: {}\nPreis: {}\n".format(buch2Tuple[0], buch2Tuple[1], buch2Tuple[2], buch2Tuple[3]))
     print("Titel: {}\nAutor: {}\nArtikelnummer: {}\nPreis: {}\n".format(buch3Tuple[0], buch3Tuple[1], buch3Tuple[2], buch3Tuple[3]))
 
-if __name__ == "__main__":
+if(__name__ == "__main__"):
     main()

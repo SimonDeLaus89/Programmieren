@@ -17,5 +17,5 @@ def main():
     print("Titel: {}\nAutor: {}\nArtikelnummer: {}\nPreis: {}\n".format(buecher[1]["Titel"], buecher[1]["Autor"], buecher[1]["Artikelnummer"],buecher[1]["Preis"]))
     print("Titel: {}\nAutor: {}\nArtikelnummer: {}\nPreis: {}\n".format(buecher[2]["Titel"], buecher[2]["Autor"], buecher[2]["Artikelnummer"], buecher[2]["Preis"]))
 
-if __name__ == "__main__":
+if(__name__ == "__main__"):
     main()

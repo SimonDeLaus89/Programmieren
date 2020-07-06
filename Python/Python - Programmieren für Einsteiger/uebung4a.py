@@ -32,5 +32,5 @@ def main():
         print ("Baujahr: ",listeFahrzeuge[2][2])
         print ("Preis: ",listeFahrzeuge[2][3], "\n")
 
-if __name__ == "__main__":
+if(__name__ == "__main__"):
     main()

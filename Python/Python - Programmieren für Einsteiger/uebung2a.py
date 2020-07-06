@@ -14,5 +14,5 @@ def main():
     z = x + y
     print("Summe: {}".format(z))
 
-if __name__ == "__main__":
+if(__name__ == "__main__"):
     main()
