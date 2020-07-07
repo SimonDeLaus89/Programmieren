@@ -2,6 +2,12 @@
 1.  Schreiben Sie ein Programm, das es erlaubt, eine Gästeliste für Ihre nächste Geburtstagsparty zu gestalten.
     Dieses soll eine Schleife enthalten, in der Sie beliebig viele Namen eintragen können.
     Sollte vor dem Aufruf des Programms bereits eine Gästeliste bestehen, dann sollen die neuen Namen an die bisherige Datei angehängt werden.
+2.  Schreiben Sie ein Programm, das es ermöglicht, einen Gast von der Liste zu löschen.
+    Da keine Möglichkeit bekannt ist, einen Teilbereich der Datei zu entfernen, soll das Programm zunächst die komplette Gästeliste einlesen und in einer Liste speichern.
+    Danach ist es notwendig, die Datei mit dem Befehl f.close() wieder zu schließen.
+    Überprüfen Sie anschließend, ob der Name in der Liste enthalten ist.
+    Ist dies der Fall, müssen Sie den Eintrag aus der Liste entfernen und die Datei erneut öffnen – dieses Mal mit dem Attribut “w“, um den bisherigen Inhalt zu überschreiben.
+    Geben Sie eine Meldung aus, ob der Eintrag gelöscht wurde oder ob er nicht in der Liste enthalten ist.
 
 Bonacina, Michael. Python 3: Programmieren für Einsteiger: Der leichte Weg zum Python-Experten (Einfach Programmieren lernen 2) (German Edition) (S.197). Kindle-Version.
 """
