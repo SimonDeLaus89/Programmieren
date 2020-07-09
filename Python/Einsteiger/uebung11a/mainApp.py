@@ -1,20 +1,10 @@
-"""
-1.  Gestalten Sie ein Fenster, das zwei Eingabefelder enthält, in die der Anwender jeweils eine Zahl einfügen soll.
-    Danach folgt ein Button und dann ein weiteres Eingabefeld.
-    Wenn der Anwender den Button drückt, soll das Programm die Werte der beiden Felder addieren und mit dem insert-Befehl im letzten Eingabefeld ausgeben.
-    Dieser muss als Parameter zunächst die Zahl 0 erhalten, damit das Ergebnis an der ersten Position des Feldes angezeigt wird.
-    Danach folgt die Ausgabe – also das Ergebnis der Addition. Ordnen Sie die einzelnen Elemente mit dem place-Manager an.
-
-Bonacina, Michael. Python 3: Programmieren für Einsteiger: Der leichte Weg zum Python-Experten (Einfach Programmieren lernen 2) (German Edition) (S.220-221). Kindle-Version.
-"""
-
 import tkinter as tk
 
 class MainApplication(tk.Frame):
     def __init__(self, parent):
         tk.Frame.__init__(self, parent)
         self.parent = parent
-        self.parent.title("Addieren")
+        self.parent.title("Uebung11a")
         self.parent.geometry("300x300")
 
         self.border = tk.Frame(self.parent, relief = "ridge", borderwidth = 5)
@@ -56,8 +46,3 @@ class MainApplication(tk.Frame):
             self.input2.delete(0,'end')
             self.output.delete(0,'end')
             self.output.insert(0, "Error!")
-
-if(__name__ == "__main__"):
-    root = tk.Tk()
-    MainApplication(root).pack()
-    root.mainloop()

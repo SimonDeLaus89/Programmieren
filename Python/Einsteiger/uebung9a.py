@@ -18,7 +18,7 @@ def main():
     except TypeError:
         print("Sie müssen Zahlen eingeben.")
     except:
-        print ("Folgender Fehler ist aufgetreten: {}", sys.exc_info()[0])        
+        print ("Folgender Fehler ist aufgetreten: {}", sys.exc_info()[0])
 
 if(__name__ == "__main__"):
     main()

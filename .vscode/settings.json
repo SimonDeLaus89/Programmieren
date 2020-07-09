@@ -2,6 +2,7 @@
     "cSpell.words": [
         "Aenean",
         "Andi",
+        "Arial",
         "Bonacina",
         "Donec",
         "Nulla",
@@ -23,14 +24,19 @@
         "magnis",
         "nascetur",
         "natoque",
+        "padx",
+        "pady",
         "panamera",
         "pellentesque",
         "penatibus",
         "pretium",
         "quis",
+        "relx",
         "ridiculus",
         "sociis",
         "suchanek",
-        "ultricies"
+        "ultricies",
+        "yscrollcommand",
+        "yview"
     ]
 }

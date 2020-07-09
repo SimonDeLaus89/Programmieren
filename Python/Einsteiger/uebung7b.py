@@ -5,7 +5,6 @@
 Bonacina, Michael. Python 3: Programmieren für Einsteiger: Der leichte Weg zum Python-Experten (Einfach Programmieren lernen 2) (German Edition) (S.134-135). Kindle-Version.
 """
 
-
 import time
 
 def main():

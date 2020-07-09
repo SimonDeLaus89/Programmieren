@@ -6,7 +6,6 @@
 Bonacina, Michael. Python 3: Programmieren für Einsteiger: Der leichte Weg zum Python-Experten (Einfach Programmieren lernen 2) (German Edition) (S.54). Kindle-Version.
 """
 
-
 def main():
     x = eval(input("Geben Sie eine erste Zahl ein: "))
     y = eval(input("Geben Sie eine zweite Zahl ein: "))

@@ -6,8 +6,6 @@
 Bonacina, Michael. Python 3: Programmieren für Einsteiger: Der leichte Weg zum Python-Experten (Einfach Programmieren lernen 2) (German Edition) (S.36-37). Kindle-Version.
 """
 
-
-
 def main():
     print("5+2")
     print (5+2)

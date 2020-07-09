@@ -14,7 +14,7 @@ def main():
     print ("Herzlich Willkommen zur Verwaltung Ihres Fahrzeug-Bestands")
     print ("Mit diesem Programm können Sie neue Autos hinzufügen, Fahrzeuge verkaufen und Preise ändern")
 
-    #Programmlogik
+    #Programmlogik hinzufügen
 
 if(__name__ == "__main__"):
     main()
